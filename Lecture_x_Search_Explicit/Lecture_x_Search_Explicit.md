@@ -17,7 +17,7 @@ revealOptions:
   <div style="text-align: center; padding: 40px; background-color: white; border: 2px solid rgb(0, 63, 163); border-radius: 20px; box-shadow: 0 0 20px rgba(0,0,0,0.1);">
     <h1 style="font-size: 48px; font-weight: bold; margin-bottom: 20px; color: #333;">SI100+ 2024 Lecture x</h1>
     <p style="font-size: 24px; color: #666;">如何用搜索解决问题</p>
-    <p style="font-size: 16px; color: #999; margin-top: 20px;">SI100+ 2024 Staff | 2024-08-23</p>
+    <p style="font-size: 16px; color: #999; margin-top: 20px;">Hengyu Ai | 2024-08-23</p>
   </div>
 </div>
 
@@ -124,6 +124,7 @@ revealOptions:
 - [百度图片](https://image.baidu.com/): 越来越不好用了
 - [trace.moe](https://trace.moe/): 以图搜番
 - [SauceNao](https://saucenao.com/): 只能从完整图片搜索到原图
+- [ascii2d](https://ascii2d.net/): 可以搜到 Pixiv 陈年老图
 - 淘宝 App：拍照搜物品，维修工师傅从空调里面卸下来的电磁阀都能搜到
 
 **通用搜索流程**：在 Google Images/Yandex Images 里面搜索，在结果里面找到更清晰或更完整的图片，也可以提取关键词然后用文字搜索，如果是二刺螈图片，把搜到的比较完整的图片放到 SauceNao 里面搜索出处，搜物品可以用淘宝拍照搜索

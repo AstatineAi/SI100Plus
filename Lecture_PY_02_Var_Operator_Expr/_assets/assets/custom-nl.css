@@ -5,7 +5,7 @@
 :root {
   --r-main-font: "Helvetica", "Source Han Sans SC VF", sans-serif;
   --r-heading-font: "Helvetica" , "Source Han Sans SC VF", sans-serif;
-  --r-code-font: "JeetBrains Mono NL", sans-serif;
+  --r-code-font: "JetBrains Mono NL", sans-serif;
 }
 
 .reveal .slide-number {
